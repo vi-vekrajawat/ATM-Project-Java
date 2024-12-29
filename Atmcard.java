@@ -105,7 +105,5 @@ class Atmcard{
         Atmcard ac = new Atmcard();
         System.out.println();
         ac.pin();
-        // System.out.println("You Are Not User !");
-        //    System.out.println("You Are A Stranger! Chal Bhaag");
     }
 }
